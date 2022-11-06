@@ -1,0 +1,4 @@
+export const ADD_PATIENT = "ADD_PATIENT";
+export const DELETE_PATIENT = "DELETE_PATIENT";
+export const LOAD_PATIENTS = "LOAD_PATIENTS";
+export const ADD_MEDICATION = "ADD_MEDICATION";
